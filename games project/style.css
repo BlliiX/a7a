@@ -44,3 +44,6 @@ header {
   height: 50vh;
   float: center;
 }
+.img{
+border-radius: 2px;
+}
